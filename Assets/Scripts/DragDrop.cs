@@ -80,10 +80,13 @@ public class DragDrop : MonoBehaviour
             source.Play();
             IsLocked = true;
             objectToDrag.transform.position = ObjectDragToPos.transform.position;
-            
+
 
             // Button reached the target location
-            gameObject.SetActive(false); // Hide the button
+            //gameObject.SetActive(false); // Hide the button
+
+            hideButton(); //Disabling the entire gameObject (above) also disables the DragDrop script component (and therefore the audio clips and source) which is why this is here.
+
             targetLocation.GetComponent<Image>().color = targetColor; // Change target color
 
             // Make the sprite appear
@@ -107,6 +110,13 @@ public class DragDrop : MonoBehaviour
 
     }
 
-  
+    void hideButton()
+    {
+        // Set width and height to zero
+        rectTransform.sizeDelta = Vector2.zero;
+
+        // Move the object off-screen (you can adjust this as needed)
+        rectTransform.localPosition = new Vector3(9999, 9999, 9999);
+    }
 
 }
