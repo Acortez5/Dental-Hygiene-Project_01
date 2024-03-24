@@ -180,7 +180,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Mandibular Canal
+  m_text: R Mandibular Canal
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -207,8 +207,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -408,8 +408,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1498851510}
   sprite1: {fileID: 1498851510}
   source: {fileID: 14880823}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &14880819
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -696,8 +696,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 313575612}
   sprite1: {fileID: 313575612}
   source: {fileID: 23388526}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &23388522
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1117,8 +1117,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 731328546}
   sprite1: {fileID: 731328546}
   source: {fileID: 29555028}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &29555025
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1493,8 +1493,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1218058416}
   sprite1: {fileID: 1218058416}
   source: {fileID: 33417497}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &33417494
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1811,8 +1811,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 2117224173}
   sprite1: {fileID: 2117224173}
   source: {fileID: 48051731}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &48051727
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2277,8 +2277,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1967374901}
   sprite1: {fileID: 1967374901}
   source: {fileID: 51473001}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &51472998
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2514,7 +2514,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Internal Oblique Ridge
+  m_text: L Internal Oblique Ridge
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2541,8 +2541,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2699,8 +2699,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1190952979}
   sprite1: {fileID: 1190952979}
   source: {fileID: 62236154}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &62236151
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2942,8 +2942,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 740231626}
   sprite1: {fileID: 740231626}
   source: {fileID: 88851143}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &88851139
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3224,7 +3224,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Styloid Process
+  m_text: L Styloid Process
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3251,8 +3251,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3364,8 +3364,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 166967807}
   sprite1: {fileID: 166967807}
   source: {fileID: 119424644}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &119424640
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3697,8 +3697,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 613925914}
   sprite1: {fileID: 613925914}
   source: {fileID: 119926265}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &119926262
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4049,8 +4049,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4156,7 +4156,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Pterygomaxillary Fissure
+  m_text: L Pterygomaxillary Fissure
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4183,8 +4183,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4768,8 +4768,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1380858660}
   sprite1: {fileID: 1380858660}
   source: {fileID: 180541004}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &180541001
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5056,8 +5056,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 649234533}
   sprite1: {fileID: 649234533}
   source: {fileID: 181774069}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &181774066
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5344,8 +5344,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1989700053}
   sprite1: {fileID: 1989700053}
   source: {fileID: 183671306}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &183671303
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5587,8 +5587,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 170301967}
   sprite1: {fileID: 170301967}
   source: {fileID: 194932838}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &194932834
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5869,7 +5869,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Styloid Process
+  m_text: R Styloid Process
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5896,8 +5896,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -6009,8 +6009,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1554810906}
   sprite1: {fileID: 1554810906}
   source: {fileID: 216480013}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &216480009
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6450,8 +6450,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1970667264}
   sprite1: {fileID: 1970667264}
   source: {fileID: 225372200}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &225372197
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6693,8 +6693,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1189198845}
   sprite1: {fileID: 1189198845}
   source: {fileID: 231523292}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &231523288
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7002,8 +7002,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -7136,8 +7136,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -7377,7 +7377,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Palatoglossal Air Space
+  m_text: R Palatoglossal Air Space
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7404,8 +7404,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -7637,7 +7637,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right External Auditory Meatus
+  m_text: R External Auditory Meatus
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7664,8 +7664,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -8174,8 +8174,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 940341712}
   sprite1: {fileID: 940341712}
   source: {fileID: 318957910}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &318957907
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8411,7 +8411,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Internal Oblique Ridge
+  m_text: R Internal Oblique Ridge
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8438,8 +8438,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -8551,8 +8551,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 434554878}
   sprite1: {fileID: 434554878}
   source: {fileID: 325846833}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &325846829
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8884,8 +8884,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1054940710}
   sprite1: {fileID: 1054940710}
   source: {fileID: 338169542}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &338169539
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9236,8 +9236,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -9370,8 +9370,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -9504,8 +9504,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -9927,8 +9927,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1882035590}
   sprite1: {fileID: 1882035590}
   source: {fileID: 380735145}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &380735141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10260,8 +10260,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1559402616}
   sprite1: {fileID: 1559402616}
   source: {fileID: 407780661}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &407780658
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10548,8 +10548,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 2026518223}
   sprite1: {fileID: 2026518223}
   source: {fileID: 416223315}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &416223312
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11156,7 +11156,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Mastoid Process
+  m_text: R Mastoid Process
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11183,8 +11183,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -11429,8 +11429,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 282933638}
   sprite1: {fileID: 282933638}
   source: {fileID: 472294151}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &472294148
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11806,8 +11806,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 29945875}
   sprite1: {fileID: 29945875}
   source: {fileID: 479549720}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &479549716
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12665,8 +12665,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -13009,8 +13009,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1030287535}
   sprite1: {fileID: 1030287535}
   source: {fileID: 544507601}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &544507598
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13334,7 +13334,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Mastoid Process
+  m_text: L Mastoid Process
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -13361,8 +13361,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -13562,8 +13562,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1957798133}
   sprite1: {fileID: 1957798133}
   source: {fileID: 568157728}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &568157724
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13980,8 +13980,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1203268059}
   sprite1: {fileID: 1203268059}
   source: {fileID: 590626620}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &590626617
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14268,8 +14268,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1175606256}
   sprite1: {fileID: 1175606256}
   source: {fileID: 599050908}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &599050905
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14984,8 +14984,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -15569,8 +15569,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1378783379}
   sprite1: {fileID: 1378783379}
   source: {fileID: 692530108}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &692530105
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15806,7 +15806,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Coronoid Notch
+  m_text: L Coronoid Notch
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -15833,8 +15833,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -15991,8 +15991,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 312859748}
   sprite1: {fileID: 312859748}
   source: {fileID: 706073293}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &706073290
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16228,7 +16228,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Zygoma
+  m_text: L Zygoma
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -16255,8 +16255,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -16362,7 +16362,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Coronoid Process
+  m_text: L Coronoid Process
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -16389,8 +16389,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -16523,8 +16523,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -16681,8 +16681,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1820649964}
   sprite1: {fileID: 1820649964}
   source: {fileID: 716823092}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &716823089
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16969,8 +16969,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1035416902}
   sprite1: {fileID: 1035416902}
   source: {fileID: 730464034}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &730464031
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17300,8 +17300,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1326201091}
   sprite1: {fileID: 1326201091}
   source: {fileID: 738850212}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &738850208
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17809,8 +17809,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 2132398563}
   sprite1: {fileID: 2132398563}
   source: {fileID: 744093717}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &744093714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18097,8 +18097,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1318786552}
   sprite1: {fileID: 1318786552}
   source: {fileID: 747917083}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &747917080
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18361,8 +18361,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -18474,8 +18474,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 503143182}
   sprite1: {fileID: 503143182}
   source: {fileID: 774338116}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &774338112
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18895,8 +18895,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 961283616}
   sprite1: {fileID: 961283616}
   source: {fileID: 812969671}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &812969668
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19132,7 +19132,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Articular Eminence
+  m_text: L Articular Eminence
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -19159,8 +19159,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -19272,8 +19272,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1786158191}
   sprite1: {fileID: 1786158191}
   source: {fileID: 830141961}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &830141957
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19605,8 +19605,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 314758192}
   sprite1: {fileID: 314758192}
   source: {fileID: 833530221}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &833530218
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20106,7 +20106,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Infraorbital Foramen
+  m_text: L Infraorbital Foramen
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -20133,8 +20133,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -20462,7 +20462,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Mylohyoid Ridge
+  m_text: R Mylohyoid Ridge
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -20489,8 +20489,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -20623,8 +20623,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -20781,8 +20781,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 952030167}
   sprite1: {fileID: 952030167}
   source: {fileID: 888863705}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &888863702
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21069,8 +21069,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 174340004}
   sprite1: {fileID: 174340004}
   source: {fileID: 898894110}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &898894107
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21357,8 +21357,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 743541384}
   sprite1: {fileID: 743541384}
   source: {fileID: 899753563}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &899753560
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21600,8 +21600,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 981857142}
   sprite1: {fileID: 981857142}
   source: {fileID: 911687824}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &911687820
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21909,8 +21909,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -22043,8 +22043,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -22394,8 +22394,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -23076,8 +23076,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 2144838608}
   sprite1: {fileID: 2144838608}
   source: {fileID: 974182584}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &974182581
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23364,8 +23364,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 378768921}
   sprite1: {fileID: 378768921}
   source: {fileID: 975261115}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &975261112
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23716,8 +23716,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -23850,8 +23850,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -23957,7 +23957,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Mandibular Foramen
+  m_text: R Mandibular Foramen
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -23984,8 +23984,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -24091,7 +24091,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Zygomatic Process of Maxilla
+  m_text: L Zygomatic Process of Maxilla
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -24118,8 +24118,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -24225,7 +24225,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Lateral Pterygoid Plate
+  m_text: R Lateral Pterygoid Plate
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -24252,8 +24252,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -24359,7 +24359,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right External Oblique Ridge
+  m_text: R External Oblique Ridge
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -24386,8 +24386,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -24493,7 +24493,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Coronoid Notch
+  m_text: R Coronoid Notch
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -24520,8 +24520,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -24742,8 +24742,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1138276455}
   sprite1: {fileID: 1138276455}
   source: {fileID: 1019352405}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1019352402
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24979,7 +24979,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Hyoid Bone
+  m_text: L Hyoid Bone
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -25006,8 +25006,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -25340,8 +25340,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1884585120}
   sprite1: {fileID: 1884585120}
   source: {fileID: 1038313953}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1038313950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25628,8 +25628,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1818109777}
   sprite1: {fileID: 1818109777}
   source: {fileID: 1044982969}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1044982966
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25959,8 +25959,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 925526127}
   sprite1: {fileID: 925526127}
   source: {fileID: 1058168636}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1058168632
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26268,8 +26268,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -26426,8 +26426,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1703661613}
   sprite1: {fileID: 1703661613}
   source: {fileID: 1077278421}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1077278418
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26802,8 +26802,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1132621040}
   sprite1: {fileID: 1132621040}
   source: {fileID: 1082490710}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1082490706
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27111,8 +27111,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -27218,7 +27218,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Infraorbital Foramen
+  m_text: R Infraorbital Foramen
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -27245,8 +27245,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -27403,8 +27403,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1544201871}
   sprite1: {fileID: 1544201871}
   source: {fileID: 1093529308}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1093529305
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27721,8 +27721,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 614592534}
   sprite1: {fileID: 614592534}
   source: {fileID: 1103846630}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1103846626
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28426,8 +28426,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1238726804}
   sprite1: {fileID: 1238726804}
   source: {fileID: 1142088881}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1142088878
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28714,8 +28714,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 642104686}
   sprite1: {fileID: 642104686}
   source: {fileID: 1146532783}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1146532780
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29002,8 +29002,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1285304422}
   sprite1: {fileID: 1285304422}
   source: {fileID: 1164467484}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1164467481
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29266,8 +29266,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -29461,7 +29461,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Inferior Border of Mandible
+  m_text: R Inferior Border of Mandible
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -29488,8 +29488,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -29595,7 +29595,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Mental Foramen
+  m_text: R Mental Foramen
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -29622,8 +29622,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -29932,8 +29932,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -30215,7 +30215,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Hard Palate
+  m_text: L Hard Palate
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -30242,8 +30242,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -30488,8 +30488,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1441137631}
   sprite1: {fileID: 1441137631}
   source: {fileID: 1203724373}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1203724370
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30840,8 +30840,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -30998,8 +30998,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1241625281}
   sprite1: {fileID: 1241625281}
   source: {fileID: 1236156688}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1236156685
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31235,7 +31235,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left External Auditory Meatus
+  m_text: L External Auditory Meatus
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -31262,8 +31262,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -31545,7 +31545,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Maxillary Tuberosity
+  m_text: L Maxillary Tuberosity
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -31572,8 +31572,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -31706,8 +31706,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -31864,8 +31864,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 2073440363}
   sprite1: {fileID: 2073440363}
   source: {fileID: 1254304908}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1254304905
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32101,7 +32101,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Nasal Cavity
+  m_text: R Nasal Cavity
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -32128,8 +32128,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -32235,7 +32235,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Zygoma
+  m_text: R Zygoma
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -32262,8 +32262,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -32420,8 +32420,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 372991328}
   sprite1: {fileID: 372991328}
   source: {fileID: 1271918827}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1271918824
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32657,7 +32657,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Mental Foramen
+  m_text: L Mental Foramen
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -32684,8 +32684,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -32930,8 +32930,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 565328078}
   sprite1: {fileID: 565328078}
   source: {fileID: 1286579476}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1286579473
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33255,7 +33255,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Palatoglossal Air Space
+  m_text: L Palatoglossal Air Space
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -33282,8 +33282,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -33440,8 +33440,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1658138963}
   sprite1: {fileID: 1658138963}
   source: {fileID: 1309611408}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1309611405
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33677,7 +33677,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Nasopharyngeal Air Space
+  m_text: R Nasopharyngeal Air Space
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -33704,8 +33704,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -33817,8 +33817,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 842015453}
   sprite1: {fileID: 842015453}
   source: {fileID: 1318716311}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1318716307
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34214,8 +34214,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -34372,8 +34372,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 431134742}
   sprite1: {fileID: 431134742}
   source: {fileID: 1324443500}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1324443497
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34697,7 +34697,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Glenoid Fossa
+  m_text: R Glenoid Fossa
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -34724,8 +34724,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -34858,8 +34858,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -34965,7 +34965,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Hyoid Bone
+  m_text: R Hyoid Bone
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -34992,8 +34992,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -35559,8 +35559,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 164219014}
   sprite1: {fileID: 164219014}
   source: {fileID: 1418490492}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1418490489
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35802,8 +35802,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1961508748}
   sprite1: {fileID: 1961508748}
   source: {fileID: 1427977585}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1427977581
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36084,7 +36084,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Maxillary Sinus
+  m_text: R Maxillary Sinus
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -36111,8 +36111,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -36218,7 +36218,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Lingula
+  m_text: R Lingula
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -36245,8 +36245,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -36469,8 +36469,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -36576,7 +36576,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Maxillary Tuberosity
+  m_text: R Maxillary Tuberosity
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -36603,8 +36603,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -36737,8 +36737,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -36844,7 +36844,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Glossopharyngeal Air Space
+  m_text: L Glossopharyngeal Air Space
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -36871,8 +36871,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -36984,8 +36984,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1579839302}
   sprite1: {fileID: 1579839302}
   source: {fileID: 1456779901}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1456779897
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37266,7 +37266,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Maxillary Sinus
+  m_text: L Maxillary Sinus
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -37293,8 +37293,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -37577,8 +37577,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 789882152}
   sprite1: {fileID: 789882152}
   source: {fileID: 1473910517}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1473910514
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37902,7 +37902,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Hamulus
+  m_text: R Hamulus
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -37929,8 +37929,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -38065,8 +38065,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -38223,8 +38223,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1739188503}
   sprite1: {fileID: 1739188503}
   source: {fileID: 1488164944}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1488164941
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38510,7 +38510,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left External Oblique Ridge
+  m_text: L External Oblique Ridge
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -38537,8 +38537,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -38738,8 +38738,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 519965380}
   sprite1: {fileID: 519965380}
   source: {fileID: 1504424561}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1504424557
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39560,7 +39560,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Nasal Cavity
+  m_text: L Nasal Cavity
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -39587,8 +39587,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -40099,8 +40099,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 844859690}
   sprite1: {fileID: 844859690}
   source: {fileID: 1574769967}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1574769963
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40557,7 +40557,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Orbit
+  m_text: R Orbit
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -40584,8 +40584,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -40718,8 +40718,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -41080,8 +41080,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1619402067}
   sprite1: {fileID: 1619402067}
   source: {fileID: 1608479763}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1608479760
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41317,7 +41317,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Pterygomaxillary Fissure
+  m_text: R Pterygomaxillary Fissure
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -41344,8 +41344,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -41502,8 +41502,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1938115227}
   sprite1: {fileID: 1938115227}
   source: {fileID: 1612835091}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1612835088
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41827,7 +41827,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Hard Palate
+  m_text: R Hard Palate
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -41854,8 +41854,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -41967,8 +41967,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 554940353}
   sprite1: {fileID: 554940353}
   source: {fileID: 1622746448}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1622746444
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42300,8 +42300,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 26764422}
   sprite1: {fileID: 26764422}
   source: {fileID: 1623433513}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1623433510
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42588,8 +42588,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1839669236}
   sprite1: {fileID: 1839669236}
   source: {fileID: 1631302416}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1631302413
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42825,7 +42825,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Mylohyoid Ridge
+  m_text: L Mylohyoid Ridge
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -42852,8 +42852,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -43034,7 +43034,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Glenoid Fossa
+  m_text: L Glenoid Fossa
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -43061,8 +43061,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -43528,8 +43528,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1545246446}
   sprite1: {fileID: 1545246446}
   source: {fileID: 1671931368}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1671931364
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43959,7 +43959,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Coronoid Process
+  m_text: R Coronoid Process
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -43986,8 +43986,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -44144,8 +44144,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1295260563}
   sprite1: {fileID: 1295260563}
   source: {fileID: 1677269095}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1677269092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44483,8 +44483,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -44705,8 +44705,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -44863,8 +44863,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1759757080}
   sprite1: {fileID: 1759757080}
   source: {fileID: 1699636863}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1699636860
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45239,8 +45239,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1203329622}
   sprite1: {fileID: 1203329622}
   source: {fileID: 1703475547}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1703475544
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45564,7 +45564,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Articular Eminence
+  m_text: R Articular Eminence
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -45591,8 +45591,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -45698,7 +45698,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Anterior Nasal Spine
+  m_text: Ant Nasal Spine
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -45725,8 +45725,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -45838,8 +45838,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 120444758}
   sprite1: {fileID: 120444758}
   source: {fileID: 1738920379}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1738920375
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46296,7 +46296,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Mandibular Condyle
+  m_text: R Mandibular Condyle
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -46323,8 +46323,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -46481,8 +46481,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1746386608}
   sprite1: {fileID: 1746386608}
   source: {fileID: 1749210072}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1749210069
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46718,7 +46718,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Nasopharyngeal Air Space
+  m_text: L Nasopharyngeal Air Space
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -46745,8 +46745,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -46940,7 +46940,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Mandibular Condyle
+  m_text: L Mandibular Condyle
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -46967,8 +46967,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -47111,7 +47111,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Hamulus
+  m_text: L Hamulus
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -47138,8 +47138,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -47333,7 +47333,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Inferior Border of Mandible
+  m_text: L Inferior Border of Mandible
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -47360,8 +47360,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -47494,8 +47494,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -47892,8 +47892,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -48226,8 +48226,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 840254677}
   sprite1: {fileID: 840254677}
   source: {fileID: 1852698215}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1852698212
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48499,7 +48499,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Mandibular Foramen
+  m_text: L Mandibular Foramen
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -48526,8 +48526,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -48660,8 +48660,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -48967,8 +48967,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 448396500}
   sprite1: {fileID: 448396500}
   source: {fileID: 1877816144}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1877816141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49431,8 +49431,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 957850249}
   sprite1: {fileID: 957850249}
   source: {fileID: 1885473675}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1885473672
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49668,7 +49668,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: (Right) Angle of the Mandible
+  m_text: (R) Angle of the Mandible
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -49695,8 +49695,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -49802,7 +49802,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Orbit
+  m_text: L Orbit
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -49829,8 +49829,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -49936,7 +49936,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Glossopharyngeal Air Space
+  m_text: R Glossopharyngeal Air Space
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -49963,8 +49963,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -50076,8 +50076,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 340793703}
   sprite1: {fileID: 340793703}
   source: {fileID: 1929750086}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1929750082
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50542,8 +50542,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1701387911}
   sprite1: {fileID: 1701387911}
   source: {fileID: 1937484569}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1937484566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50873,8 +50873,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 12505290}
   sprite1: {fileID: 12505290}
   source: {fileID: 1943346158}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1943346154
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51182,8 +51182,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -51496,8 +51496,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 865349460}
   sprite1: {fileID: 865349460}
   source: {fileID: 1960790545}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1960790542
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52024,8 +52024,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -52137,8 +52137,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1526781217}
   sprite1: {fileID: 1526781217}
   source: {fileID: 1982490170}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1982490166
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52419,7 +52419,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Lingula
+  m_text: L Lingula
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -52446,8 +52446,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -52604,8 +52604,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 675611427}
   sprite1: {fileID: 675611427}
   source: {fileID: 1984092161}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &1984092158
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52841,7 +52841,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Mandibular Canal
+  m_text: L Mandibular Canal
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -52868,8 +52868,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -53090,8 +53090,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -53524,8 +53524,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1821399761}
   sprite1: {fileID: 1821399761}
   source: {fileID: 2020459273}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &2020459270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53812,8 +53812,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1201373551}
   sprite1: {fileID: 1201373551}
   source: {fileID: 2023233309}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &2023233306
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54201,8 +54201,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -54308,7 +54308,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: (Left) Angle of the Mandible
+  m_text: (L) Angle of the Mandible
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -54335,8 +54335,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -54493,8 +54493,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 691621770}
   sprite1: {fileID: 691621770}
   source: {fileID: 2048692413}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &2048692410
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54851,8 +54851,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1666316337}
   sprite1: {fileID: 1666316337}
   source: {fileID: 2053204749}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &2053204746
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55139,8 +55139,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1123203812}
   sprite1: {fileID: 1123203812}
   source: {fileID: 2071568856}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &2071568853
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55558,8 +55558,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1578795810}
   sprite1: {fileID: 1578795810}
   source: {fileID: 2076904667}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &2076904663
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55877,7 +55877,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Left Lateral Pterygoid Plate
+  m_text: L Lateral Pterygoid Plate
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -55904,8 +55904,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -56237,8 +56237,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1843433727}
   sprite1: {fileID: 1843433727}
   source: {fileID: 2097446783}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &2097446780
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56474,7 +56474,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Right Zygomatic Process of Maxilla
+  m_text: R Zygomatic Process of Maxilla
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -56501,8 +56501,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -56747,8 +56747,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 2074860678}
   sprite1: {fileID: 2074860678}
   source: {fileID: 2117710143}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &2117710140
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57035,8 +57035,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1697097490}
   sprite1: {fileID: 1697097490}
   source: {fileID: 2125741676}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &2125741673
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57398,8 +57398,8 @@ MonoBehaviour:
   spriteToAppear: {fileID: 1478050653}
   sprite1: {fileID: 1478050653}
   source: {fileID: 2129023943}
-  correct: {fileID: 8300000, guid: 99775e8b6a7e3dd41ae00c114d5d8743, type: 3}
-  incorrect: {fileID: 8300000, guid: 1eb8d54d3cdbdef439fae4917a452b4b, type: 3}
+  correct: {fileID: 8300000, guid: 69bfe62c5178de64d9af18012e66a92a, type: 3}
+  incorrect: {fileID: 8300000, guid: 948a4b9a520d5b34395f5e41448937b1, type: 3}
 --- !u!114 &2129023940
 MonoBehaviour:
   m_ObjectHideFlags: 0
